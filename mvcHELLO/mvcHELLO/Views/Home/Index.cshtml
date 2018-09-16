@@ -1,0 +1,23 @@
+﻿@model mvcHELLO.Models.Person 
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+
+</head>
+<body>
+    <h1 style="color:firebrick">HELLO WORLD!!</h1>
+    <a href="@Url.Action("Page2","Home")">Page2</a> @*//link alla seconda pagina,primo parametro la pagina nuova, secondo parametro
+                                                        è il controller...vado a modificare l'HomeController*@
+    <form asp-action="Page2" method="post">
+        <input asp-for="UName" />
+        <br />
+        <input asp-for=" UCity" />
+        <button type="submit"> Submit </button>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\bin\Debug\netcoreapp2.0\mvcHELLO.deps.json
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\bin\Debug\netcoreapp2.0\mvcHELLO.runtimeconfig.json
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\bin\Debug\netcoreapp2.0\mvcHELLO.runtimeconfig.dev.json
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\bin\Debug\netcoreapp2.0\mvcHELLO.dll
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\bin\Debug\netcoreapp2.0\mvcHELLO.pdb
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.csprojAssemblyReference.cache
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.AssemblyInfoInputs.cache
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.AssemblyInfo.cs
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.dll
+C:\Users\Tommaso\Desktop\mvcHELLO\mvcHELLO\obj\Debug\netcoreapp2.0\mvcHELLO.pdb
